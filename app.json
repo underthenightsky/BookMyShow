@@ -4,7 +4,7 @@
     "slug": "BookMyShowApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/images/Figma Icons/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "splash": {
@@ -19,8 +19,8 @@
       "supportsTablet": true
     },
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+      "adaptiveIcon": { 
+        "foregroundImage": "./assets/images/Figma Icons/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.josephkurianjohn49.BookMyShowApp"
@@ -28,7 +28,7 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/icon.png"
+      "favicon": "./assets/images/Figma Icons/icon.png"
     },
     "plugins": [
       "expo-router"
